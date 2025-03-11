@@ -2,7 +2,7 @@
 
 <h3> This is the offical Github page for the OSSMalta DNS Blacklist and Whitelist project</h3>
 
-<h4> <span> · </span> <a href="https://github.com/warmax356/OSSMalta DNS Blacklists/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/warmax356/OSSMalta DNS Blacklists/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/warmax356/OSSMalta DNS Blacklists/issues"> Request Feature </a> </h4>
+<h4> <span> · </span> <a href="https://github.com/warmax356/OSS356-DNS-Blacklists/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/warmax356/OSS356-DNS-Blacklists/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/warmax356/OOSS356-DNS-Blacklists/issues"> Request Feature </a> </h4>
 
 
 </div>
