@@ -1,0 +1,26 @@
+! Syntax: Adblock
+! This is a community White list hosted at ossmalta.eu
+! This List of domains known to be safe to use to ossmalta and in use by maltese users
+! should a url need to be removed or added please contact us via the website
+
+! Open source society malta urls
+||ossmalta.eu^
+||ossmalta.com^
+
+! Gaming networks
+||wargaming.net^
+||wowslegends.com^
+
+! Banking Networks
+||revolut.com^
+||bov.com^
+||apsbank.com.mt^
+||medirect.com.mt^
+||hsbc.com.mt^
+||lombardmalta.com^
+||bnf.bank^
+||fimbank.com^
+||fcmbank.com.mt^
+
+! Social Media
+||facebook.com^
