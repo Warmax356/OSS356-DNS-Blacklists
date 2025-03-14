@@ -1,0 +1,36 @@
+! Title: The World's Most Abused TLDs
+! Description: The Top Most Abused Top Level Domains, from SpamHAUS amnd other secuirty databases merged so that Only TLDs that do not have any exclusions!
+! Source: https://www.spamhaus.org/statistics/tlds/
+! Homepage: https://bl.ossmalta.eu/malta.txt
+! Last modified: 12 Mar 2024 05:00 UTC
+! Syntax: AdBlock
+
+||autos^
+||best^
+||bid^
+||bio^
+||boats^
+||boston^
+||boutique^
+||charity^
+||christmas^
+||dance^
+||fishing^
+||hair^
+||haus^
+||loan^
+||loans^
+||men^
+||mom^
+||name^
+||review^
+||rip^
+||sbs^
+||skin^
+||support^
+||tattoo^
+||tokyo^
+||uno^
+||voto^
+||zip^
+||work^
