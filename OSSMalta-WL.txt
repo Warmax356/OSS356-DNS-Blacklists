@@ -1,7 +1,8 @@
 ! Syntax: Adblock
 ! This is a community White list hosted at ossmalta.eu
-! This List of domains known to be safe to use to ossmalta and in use by maltese users
-! should a url need to be removed or added please contact us via the website
+! This List of domains known to be safe to use on your network
+! All submissions where sent to ossmalta dns listings and is in use by Maltese and Global users
+! should a url need to be removed or added please contact us via the website or github
 
 ! Open source society malta urls
 ||ossmalta.eu^
@@ -24,3 +25,6 @@
 
 ! Social Media
 ||facebook.com^
+
+! E-commerce sites and platforms
+!!aliexpress.com
