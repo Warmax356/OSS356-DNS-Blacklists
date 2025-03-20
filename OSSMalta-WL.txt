@@ -27,4 +27,7 @@
 ||facebook.com^
 
 ! E-commerce sites and platforms
-!!aliexpress.com
+||aliexpress.com^
+
+! Educational Sites
+||codecademy.com^
