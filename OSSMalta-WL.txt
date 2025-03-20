@@ -7,6 +7,17 @@
 ! Open source society malta urls
 ||ossmalta.eu^
 ||ossmalta.com^
+||spelling.mt^
+
+! Maltese Goverment Networks
+||gov.mt^
+||attorneygeneral.mt^
+||assetrecovery.mt^
+||arms.com.mt^
+||businessfirst.com.mt^
+||ba.org.mt^
+||borzamalta.com.mt^
+||ktieb.org.mt^
 
 ! Gaming networks
 ||wargaming.net^
