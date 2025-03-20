@@ -113,5 +113,8 @@
 ! E-commerce sites and platforms
 ||aliexpress.com^
 
+! Content Delivery Networks 
+||alicdn.com^
+
 ! Educational Sites
 ||codecademy.com^
