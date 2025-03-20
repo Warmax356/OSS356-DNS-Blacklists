@@ -9,7 +9,7 @@
 ||ossmalta.com^
 ||spelling.mt^
 
-! Maltese Goverment Networks
+! Maltese Goverment Networks - urls taken from gov A2Z list
 ||gov.mt^
 ||attorneygeneral.mt^
 ||assetrecovery.mt^
@@ -18,6 +18,78 @@
 ||ba.org.mt^
 ||borzamalta.com.mt^
 ||ktieb.org.mt^
+||tfal.org.mt^
+||kreattivita.org^
+||creativeeuropemalta.mt^
+||crpd.org.mt^
+||maltadigitali.mt^
+||compensationschemes.org.mt^
+||enemalta.com.mt^
+||eures.com.mt^
+||eco-gozo.com^
+||eskills.org.mt^
+||fondi.eu^
+||enemed.com.mt^
+||erl.mt^
+||fiumalta.org^
+||fts.mt^
+||fes.org.mt^
+||fitamalta.com^
+||festivals.mt^
+||financemalta.org^
+||familybusiness.org.mt^
+||gozochannel.com^
+||grda.mt^
+||heritagemalta.org^
+||its.edu.mt^
+||judiciary.mt^
+||kmmaltairlines.com^
+||kellimni.com^
+||kordingrain.com.mt^
+||kormalta.mt^
+||legislation.mt^
+||landsauthority.org.mt^
+||mfhea.mt^
+||maltaenterprise.com^
+||maltacrafts.org^
+||mcast.edu.mt^
+||maltaculture.com^
+||mca.org.mt^
+||medicinesauthority.gov.mt^
+||mccaa.org.mt^ 
+||mfsa.com.mt^
+||mga.org.mt^
+||malta-citizenship.eu^
+||mcc.com.mt^
+||maltafilmcommission.com^
+||maltacvs.org^
+||maltairport.com^
+||mfac.org.mt^
+||maltats.com^
+||mac.org.mt^
+||mra.mt^
+||mcesd.org.mt^
+||mta.com.mt^
+||maltafireworksfestival.com^
+||mediation.mt^
+||maltalifesciencespark.com^
+||maltaartsfestival.org^
+||maltaspace.com^
+||maltaorchestra.com
+||muza.mt^
+||micas.art^
+||muzikamuzika.org^
+||mdb.org.mt^
+||maltamedair.com^
+||malitainvestments.com^
+||mbr.mt^
+||mgis.com.mt^
+||mobcmalta.com^
+
+! Maltese communication providers
+||go.com.mt^
+||epic.com.mt^
+||melita.com^
 
 ! Gaming networks
 ||wargaming.net^
@@ -33,6 +105,7 @@
 ||bnf.bank^
 ||fimbank.com^
 ||fcmbank.com.mt^
+||centralbankmalta.org^
 
 ! Social Media
 ||facebook.com^
