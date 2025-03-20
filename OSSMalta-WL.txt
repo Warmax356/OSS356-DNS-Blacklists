@@ -115,6 +115,7 @@
 
 ! Content Delivery Networks 
 ||alicdn.com^
+||aliexpress-media.com^
 
 ! Educational Sites
 ||codecademy.com^
