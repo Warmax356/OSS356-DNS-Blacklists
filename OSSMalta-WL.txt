@@ -112,6 +112,10 @@
 
 ! E-commerce sites and platforms
 ||aliexpress.com^
+||alibaba.com^
+||alipay.com^
+||humblebundle.com^
+||ticketmonti.com^
 
 ! Content Delivery Networks 
 ||alicdn.com^
@@ -119,3 +123,6 @@
 
 ! Educational Sites
 ||codecademy.com^
+
+! Systems need these to function
+||ntp.org^
