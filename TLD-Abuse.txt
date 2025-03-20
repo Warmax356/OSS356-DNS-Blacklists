@@ -34,3 +34,5 @@
 ||voto^
 ||zip^
 ||work^
+||ws^
+||tk^
