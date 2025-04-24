@@ -190,8 +190,8 @@
 ||Bov3ds.web.app^
 ||Bov3ds.tk^
 ||Bov.tk^
-||web.app^ 
-
+||web.app^
+||reliablestablelink.com^
 !
 !
 !
