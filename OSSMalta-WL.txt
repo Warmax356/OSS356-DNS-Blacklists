@@ -126,3 +126,15 @@
 
 ! Systems need these to function
 ||ntp.org^
+
+! Gaming services such as Xbox steam ubisoft and more
+arc.msn.com
+activity.windows.com
+||xboxlive.com^
+clientconfig.passport.net
+www.msftconnecttest.com
+gfwsl.geforce.com
+tracking.epicgames.com
+cloudsync-prod.s3.amazonaws.com
+telemetry-console.api.playstation.com
+
