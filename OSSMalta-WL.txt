@@ -90,6 +90,7 @@
 ||go.com.mt^
 ||epic.com.mt^
 ||melita.com^
+||melitaltd.com^
 
 ! Gaming networks
 ||wargaming.net^
