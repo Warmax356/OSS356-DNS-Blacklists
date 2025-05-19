@@ -194,6 +194,11 @@
 ||Bov.tk^
 ||web.app^
 ||reliablestablelink.com^
+||rb.gy^
+||ln.run^
+||in.run^
+||dotepl.com^
+||shorturl.at^
 !
 !
 !
