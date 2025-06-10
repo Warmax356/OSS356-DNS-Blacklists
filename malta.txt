@@ -38,6 +38,7 @@
 ||bov.uk^
 ||bov.vip^
 ||bov.win^
+||myshipment-tracker.info
 
 
 ! malicious and or spam links sent to community members
