@@ -4,7 +4,8 @@
 # The list is released without any warranty to the end users.         #
 # INFO: info@dossmalta.eu.                                            #
 # Every link reported should be considered harmefull and could        #
-# result in an unwanted malware download. Use this file carefully     #
+# result in an unwanted malware download, clickjacking, phishing and  #
+# more. please use this file carefully.                               #
 # Generated at: 2024-07-30 07:04:30                                   #
 #######################################################################
 ||162-19-214-220.eyeohost.net^ 
@@ -144,4 +145,4 @@
 ||hyponet.net^
 ||douglass-online.net^
 ||gycuniformes.com^
-
+||ahazzfundsllc.com^
