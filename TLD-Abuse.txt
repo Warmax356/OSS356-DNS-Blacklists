@@ -36,3 +36,5 @@
 ||work^
 ||ws^
 ||tk^
+||sbs^
+||icu^
