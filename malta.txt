@@ -40,6 +40,7 @@
 ||bov.win^
 ||myshipment-tracker.info^
 ||rnicrosoft.com^
+||growdamaria.com^
 
 
 ! malicious and or spam links sent to community members
