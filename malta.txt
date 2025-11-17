@@ -203,6 +203,11 @@
 ||dotepl.com^
 ||shorturl.at^
 ||ovjoffam.com^
+||lifepanel-mt.eu^
+||lifepanel.eu^
+||reppublika.com^
+||lifepanelmt.eu^
+||bonsai-future.com^
 !
 !
 !
