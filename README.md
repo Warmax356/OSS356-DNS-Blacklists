@@ -43,6 +43,9 @@ Contributions are always welcome!
 
 see `contributing.md` for ways to get started
 
+This project is Also monitored and archived by Software Heritage
+swh:1:dir:6eb4286c05b03178009d9fcb65fd9135746d9e4a;origin=https://github.com/Warmax356/OSS356-DNS-Blacklists;visit=swh:1:snp:1471648e83baff0076ea2f34753623f4e0fd9629;anchor=swh:1:rev:3af3c2242ee029d0bbe9ebf6475b841b94b04eb9
+
 ## :grey_question: FAQ
 
 - Why do i need to blacklist on my network?
