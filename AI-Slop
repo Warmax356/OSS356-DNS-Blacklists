@@ -1,0 +1,6 @@
+! Syntax: AdBlock / Pihole
+! This is a community black list hosted at ossmalta.eu 
+
+!	List of domains reported as AI slop
+
+||thebestmalta.com^
