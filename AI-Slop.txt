@@ -1,6 +1,12 @@
 ! Syntax: AdBlock / Pihole
 ! This is a community black list hosted at ossmalta.eu 
 
-!	List of domains reported as AI slop
+!	List of domains reported as AI slop - be it vibe coded sites mostly used for spam, phishing and other shady ass usage.
 
 ||thebestmalta.com^
+||wdtechdigital.com^
+||ethicalzinc.com^
+||larkagent.hk^
+||bestbooking.ro^
+||shoeconnection.co.nz^
+||azf.io^
